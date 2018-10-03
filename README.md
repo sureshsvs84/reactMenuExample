@@ -1,2 +1,0 @@
-# reactMenuExample
-Created with CodeSandbox
